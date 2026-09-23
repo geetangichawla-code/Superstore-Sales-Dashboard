@@ -1,6 +1,5 @@
 # Superstore Sales Dashboard
-
-\# Superstore Sales Dashboard
+ Superstore Sales Dashboard
 
 
 
@@ -8,59 +7,57 @@ This is an end-to-end sales analytics project that I created to showcase my skil
 
 
 
-\## Tools Used
+Tools Used
 
 
 
-\- \*\*Python (pandas)\*\*. I used it for data cleaning and exploratory analysis.
+Python (pandas):  I used it for data cleaning and exploratory analysis.
 
 
 
-\- \*\*SQL (SQLite)\*\*. I used it for business queries and insights.
+SQL (SQLite):  I used it for business queries and insights.
 
 
 
-\- \*\*Tableau\*\*. I built a dashboard with KPIs and filters.
+Tableau :  I built a dashboard with KPIs and filters.
 
 
 
-\## Project Steps
+Project Steps
+
+
+ 1. I loaded the raw Superstore sales data, totaling 9,994 rows.
+
+
+ 2. I cleaned the data by handling nulls fixing data types and removing duplicates.
 
 
 
-1\. I loaded the raw Superstore sales data, totaling 9,994 rows.
+ 3. I ran six SQL business queries to answer business questions.
 
 
 
-2\. I cleaned the data by handling nulls fixing data types and removing duplicates.
+ 4.  I built a Tableau dashboard with filters and KPIs.
 
 
 
-3\. I ran six SQL business queries to answer business questions.
+ Key Insights
 
 
 
-4\. I built a Tableau dashboard with filters and KPIs.
+Technology category had the sales.
 
 
 
-\## Key Insights
+ West region performed best overall.
 
 
 
-\- Technology category had the sales.
+Consumer segment contributed the maximum revenue.
 
 
 
-\- West region performed best overall.
-
-
-
-\- Consumer segment contributed the maximum revenue.
-
-
-
-\## Files
+Files
 
 
 
@@ -68,11 +65,8 @@ This is an end-to-end sales analytics project that I created to showcase my skil
 
 
 
-|------|-------------|
 
-
-
-| train.csv Raw sales data |
+| train.csv | Raw sales data |
 
 
 
@@ -87,8 +81,7 @@ This is an end-to-end sales analytics project that I created to showcase my skil
 | superstore sales dashboard.twbx | Tableau dashboard file |
 
 
-
-\## Dashboard Preview
+ Dashboard Preview
 
 
 
